@@ -74,27 +74,6 @@ def eliminar(lista_usuarios):
             
         
         
-        
-    
-    
-    #tipo = input("Ingrese tipo: ")
-    #tipos_validos = ["fuego","agua","hierba","veneno","psiquico","luchador","electrico"] 
-    #while tipo not in tipos_validos:
-    #    print("Debe ingresar: “fuego”, “agua”,” hierba”,” veneno”,” psíquico”,”luchador”,”eléctrico”.")
-    #    tipo = input("Ingrese tipo: ")
-    #print("Pokemon ingresado con éxito!!")
-    #lista_pokemones.append(
-    #    { "id": id_pokemon, 
-    #     "nombre": nombre.lower(),
-    #     "codigo": codigo,
-    #     "tipo": tipo.lower()})
-    #
-    #for i in lista_pokemones:
-    #    print(i)
-        
-    
-#def buscar(lista_pokemones):
-#    nombre = input("Ingrese pokemon a buscar: ")
 #    for pokemon in lista_pokemones:
 #        if pokemon["nombre"] == nombre:
 #            print(f"El tipo de pokemon es : {pokemon["tipo"]} y su código es : {pokemon["codigo"]}")
